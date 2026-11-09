@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Привет, я Amir (Kotmir) 👋</h1>
 
-<!--
-**Kotmir/Kotmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Founder of KTM-Skins | Full-Stack & Minecraft Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Я разрабатываю сложные плагины для Minecraft, администрирую сервера и создаю веб-инструменты. Увлекаюсь архитектурой, кастомными дискорд-ботами и автоматизацией.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Чем я сейчас занимаюсь:
+- 💻 Пишу кастомные веб-приложения, микросервисы и ботов на **Python** и **Go**.
+- 🎮 Развиваю студию **[KTM-Skins](https://ktm-skins.ru/)** (кастомные скины, 3D-модели и 4D Figura).
+- 🌍 Владею и технически обеспечиваю ванильный сервер **Litex Vanilla** (кастомные Skript механики, боты, web-карты).
+
+### 💻 Мой стек технологий:
+<p align="center">
+  <!-- Языки -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <br>
+  <!-- Фреймворки и тулзы -->
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
+
+---
+
+### 📊 Моя статистика:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kotmir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kotmir's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotmir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</p>
