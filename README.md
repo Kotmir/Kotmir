@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Kotmir Banner" width="100%">
+  <img src="assets/banner.webp" alt="Kotmir Banner" width="100%">
 </p>
 
 <h1 align="center">Привет, я Amir (Kotmir) 👋</h1>
