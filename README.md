@@ -8,6 +8,12 @@
   🌐 <b>Мое портфолио и проекты: <a href="https://kotmir.tech/">kotmir.tech</a></b>
 </p>
 
+<p align="center">
+  <a href="https://t.me/KotMir_You"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://modrinth.com/user/KotMir"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
+  <a href="https://www.youtube.com/@KotMir"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
+
 ---
 
 ### 🚀 Чем я сейчас занимаюсь:
@@ -34,8 +40,12 @@
 
 ### 📊 Моя статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kotmir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kotmir's GitHub stats" />
+  <a href="https://github.com/Kotmir">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kotmir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Kotmir's GitHub stats" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotmir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <a href="https://github.com/Kotmir">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotmir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Top Langs" />
+  </a>
 </p>
