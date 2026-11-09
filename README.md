@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Kotmir Banner" width="100%">
+</p>
+
 <h1 align="center">Привет, я Amir (Kotmir) 👋</h1>
 
 <h3 align="center">Founder of KTM-Skins | Minecraft Developer & Tech Admin</h3>
