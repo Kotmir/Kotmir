@@ -1,9 +1,11 @@
 <h1 align="center">Привет, я Amir (Kotmir) 👋</h1>
 
-<h3 align="center">Founder of KTM-Skins | Full-Stack & Minecraft Developer</h3>
+<h3 align="center">Founder of KTM-Skins | Minecraft Developer & Tech Admin</h3>
 
 <p align="center">
   Я разрабатываю сложные плагины для Minecraft, администрирую сервера и создаю веб-инструменты. Увлекаюсь архитектурой, кастомными дискорд-ботами и автоматизацией.
+  <br><br>
+  🌐 <b>Мое портфолио и проекты: <a href="https://kotmir.tech/">kotmir.tech</a></b>
 </p>
 
 ---
@@ -11,7 +13,7 @@
 ### 🚀 Чем я сейчас занимаюсь:
 - 💻 Пишу кастомные веб-приложения, микросервисы и ботов на **Python** и **Go**.
 - 🎮 Развиваю студию **[KTM-Skins](https://ktm-skins.ru/)** (кастомные скины, 3D-модели и 4D Figura).
-- 🌍 Владею и технически обеспечиваю ванильный сервер **Litex Vanilla** (кастомные Skript механики, боты, web-карты).
+- ⚙️ Работаю **техническим администратором** и **админом Discord-бота** для ванильного сервера **Litex Vanilla** (кастомные Skript механики, боты, web-карты).
 
 ### 💻 Мой стек технологий:
 <p align="center">
