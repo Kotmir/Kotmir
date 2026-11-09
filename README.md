@@ -30,28 +30,24 @@
 ### 💻 Мой стек технологий:
 <p align="center">
   <!-- Языки -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
   <br>
   <!-- Фреймворки и тулзы -->
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 </p>
 
 ---
 
 ### 📊 Моя статистика:
 <p align="center">
-  <a href="https://github.com/Kotmir">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kotmir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Kotmir's GitHub stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kotmir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Kotmir's GitHub stats" />
 </p>
 <p align="center">
-  <a href="https://github.com/Kotmir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotmir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotmir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Top Langs" />
 </p>
