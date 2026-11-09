@@ -10,6 +10,8 @@
 
 <p align="center">
   <a href="https://t.me/KotMir_You"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://discord.com/users/852474432232357888"><img src="https://img.shields.io/badge/My_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"></a>
+  <a href="https://discord.gg/kotmiks"><img src="https://img.shields.io/badge/KotMiks_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="KotMiks Discord"></a>
   <a href="https://modrinth.com/user/KotMir"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
   <a href="https://www.youtube.com/@KotMir"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
@@ -20,6 +22,7 @@
 - 💻 Пишу кастомные веб-приложения, микросервисы и ботов на **Python** и **Go**.
 - 🎮 Развиваю студию **[KTM-Skins](https://ktm-skins.ru/)** (кастомные скины, 3D-модели и 4D Figura).
 - ⚙️ Работаю **техническим администратором** и **админом Discord-бота** для ванильного сервера **Litex Vanilla** (кастомные Skript механики, боты, web-карты).
+- 💬 Разрабатываю Discord-бота и развиваю игровое комьюнити сервера **[KotMiks](https://discord.gg/kotmiks)**.
 
 ### 💻 Мой стек технологий:
 <p align="center">
