@@ -44,10 +44,4 @@
 
 ---
 
-### 📊 Моя статистика:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kotmir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Kotmir's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotmir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Top Langs" />
-</p>
+
